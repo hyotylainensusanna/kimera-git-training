@@ -1,5 +1,5 @@
 kirahvi
-hevonen
+kissa
 koira
 kala
 virtahepo
